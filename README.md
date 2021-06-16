@@ -1,1 +1,2 @@
 # HP-288PRO-G5-EFI
+# HP288黑苹果EFI文件
